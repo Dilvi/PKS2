@@ -1,16 +1,8 @@
-# pr_2
+# Практическое задание №1
 
-A new Flutter project.
+## Программирование корпоративных систем.
 
-## Getting Started
+### Шмелев Артём павлович ЭФБО-05-22
 
-This project is a starting point for a Flutter application.
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2792d896-4818-43c1-a73f-ddb72dff6531">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
